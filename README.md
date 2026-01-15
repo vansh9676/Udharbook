@@ -32,7 +32,7 @@
 ---
 
 ### 📱 Screenshots
-| Home Dashboard | Customer Ledger | Add Customer |
+| Home Dashboard | Add Customer | Customer Ledger |
 | :---: | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/479805b0-fd81-4677-96c9-0f6291689a19" width="250"/> | <img src="https://github.com/user-attachments/assets/3e495ba0-1348-49e4-9df0-09ba248e7e98" width="250"/> | <img src="https://github.com/user-attachments/assets/041c942b-64d9-4d70-beaf-f78c9bcb9f43" width="250"/> |
 
