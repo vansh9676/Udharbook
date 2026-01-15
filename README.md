@@ -33,7 +33,6 @@
 
 ## 📱 Screenshots
 | Home Dashboard | Customer Ledger |
-|:---:|:---:|:---:|
 | <img src="https://via.placeholder.com/200x400?text=Dashboard" width="200"/> | <img src="https://via.placeholder.com/200x400?text=Ledger" width="200"/> |
 
 
